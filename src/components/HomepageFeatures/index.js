@@ -11,7 +11,7 @@ const FeatureList = [
   {
     title: "Connectors",
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
-    description: <>Connects with many 3rd part to export your data in cubode</>,
+    description: <>Connects with many 3rd part applicationsto export your data in cubode</>,
   },
   {
     title: "Cubes ",
