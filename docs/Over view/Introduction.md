@@ -1,6 +1,6 @@
 ---
 description: Intoduction to Cubode
+sidebar_position: 1
 
 ---
 
-# Hello from Cubode intoduction page 
